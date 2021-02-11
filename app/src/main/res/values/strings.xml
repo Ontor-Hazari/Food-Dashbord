@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="order_eat"><![CDATA[Order & Eat.]]></string>
+
+
+    <string-array name="food">
+        <item>Burgar</item>
+        <item>Hotdog</item>
+        <item>Pizza</item>
+        <item>Popcron</item>
+        <item>Plater</item>
+    </string-array>
+
+    <string-array name="w_food">
+        <item>Cake</item>
+        <item>Coffe</item>
+        <item>Drinks</item>
+        <item>IceCream</item>
+        <item>Juice</item>
+    </string-array>
+
+</resources>
